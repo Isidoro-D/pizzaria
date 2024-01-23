@@ -90,3 +90,21 @@ div.pontos-chaves h4::after {
     margin: 20px auto 10px;
     content: " ";
 }
+
+/*------------------------*/
+/*     SEÇAO - PIZZA      */
+/*------------------------*/
+
+section.pizza p.destaque {
+    color: #ffff;
+    width: 40%;
+}
+
+section.pizza ul li, section.pizza ul li a {
+    color: #ffff;
+    list-style: none;
+    line-height: 1.9;
+    font-size: 90%;
+    text-transform: uppercase;
+    text-decoration: none;
+}
