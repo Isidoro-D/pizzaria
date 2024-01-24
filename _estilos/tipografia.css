@@ -108,3 +108,14 @@ section.pizza ul li, section.pizza ul li a {
     text-transform: uppercase;
     text-decoration: none;
 }
+
+/*-----------------------------------*/
+
+/*-------- SEÇAO - DEPOIMENTO -------*/
+
+/*-----------------------------------*/
+
+section.testemunha p.destaque {
+    width: 40%;
+    background-color: rgba(255,255,255,0.7);
+}
