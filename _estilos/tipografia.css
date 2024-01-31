@@ -85,7 +85,7 @@ header div.chamada a {
     /*é a transoção suave de uma cor para a outra, para utiliza-lo deverá ser informado a cor desejada em seguida porcentagem dessa cor que se deseja colocar*/
     background: linear-gradient(rgba(7, 140, 49, 55) 0%, rgba(6, 89, 2, 35) 50%, rgba(6, 89, 2, 35) 100%);
     animation-name: HeaderA-MoverParaCima;
-    animation: 1s;
+    animation-duration: 1s;
     animation-delay: 1s;
     animation-timing-function: ease-out;
     animation-fill-mode: backwards;
